@@ -1,0 +1,1079 @@
+﻿{
+    "success":  true,
+    "statusCode":  200,
+    "responseTime":  1287,
+    "pageSize":  120361,
+    "title":  "Wikipedia",
+    "metaDescription":  "Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.",
+    "h1":  1,
+    "h2":  5,
+    "links":  376,
+    "images":  1,
+    "imagesWithoutAlt":  1,
+    "wordCount":  1039,
+    "seoScore":  62,
+    "seoChecks":  [
+                      {
+                          "name":  "title",
+                          "passed":  true,
+                          "details":  "Wikipedia"
+                      },
+                      {
+                          "name":  "title_length",
+                          "passed":  false,
+                          "details":  9
+                      },
+                      {
+                          "name":  "meta_description",
+                          "passed":  true,
+                          "details":  "Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation."
+                      },
+                      {
+                          "name":  "meta_description_length",
+                          "passed":  true,
+                          "details":  130
+                      },
+                      {
+                          "name":  "viewport",
+                          "passed":  true
+                      },
+                      {
+                          "name":  "canonical",
+                          "passed":  false
+                      },
+                      {
+                          "name":  "charset",
+                          "passed":  true
+                      },
+                      {
+                          "name":  "html_lang",
+                          "passed":  true,
+                          "details":  "en"
+                      },
+                      {
+                          "name":  "favicon",
+                          "passed":  true
+                      },
+                      {
+                          "name":  "open_graph",
+                          "passed":  true,
+                          "details":  {
+                                          "title":  "Wikipedia, the free encyclopedia",
+                                          "description":  "Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.",
+                                          "image":  "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/250px-Wikipedia-logo-v2.svg.png",
+                                          "type":  "website"
+                                      }
+                      },
+                      {
+                          "name":  "twitter_card",
+                          "passed":  false,
+                          "details":  {
+
+                                      }
+                      },
+                      {
+                          "name":  "structured_data",
+                          "passed":  false,
+                          "details":  [
+
+                                      ]
+                      },
+                      {
+                          "name":  "robots_meta",
+                          "passed":  false
+                      }
+                  ],
+    "seoRecommendations":  [
+                               {
+                                   "priority":  "Medium",
+                                   "problem":  "Title length out of recommended range",
+                                   "recommendation":  "Keep title between 10 and 60 characters.",
+                                   "fix":  "\u003ctitle\u003eShort but descriptive title\u003c/title\u003e",
+                                   "docs":  "https://developers.google.com/search/docs/appearance/title-links"
+                               }
+                           ],
+    "og":  {
+               "title":  "Wikipedia, the free encyclopedia",
+               "description":  "Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.",
+               "image":  "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/250px-Wikipedia-logo-v2.svg.png",
+               "type":  "website"
+           },
+    "twitter":  {
+
+                },
+    "structuredData":  [
+
+                       ],
+    "htmlLang":  "en",
+    "robotsTxtAvailable":  false,
+    "sitemapAvailable":  false,
+    "performanceScore":  80,
+    "performanceRating":  "Good",
+    "contentType":  "text/html",
+    "compression":  null,
+    "encoding":  null,
+    "redirectCount":  0,
+    "finalUrl":  "https://www.wikipedia.org/",
+    "estimatedDownloadTime":  0.963,
+    "securityScore":  29,
+    "securityHeaders":  {
+                            "csp":  null,
+                            "hsts":  "max-age=106384710; includeSubDomains; preload",
+                            "referrerPolicy":  null,
+                            "xFrameOptions":  null,
+                            "xContentTypeOptions":  null,
+                            "permissionsPolicy":  null,
+                            "crossOriginEmbedderPolicy":  null,
+                            "crossOriginOpenerPolicy":  null,
+                            "crossOriginResourcePolicy":  null
+                        },
+    "securityDetails":  [
+                            {
+                                "name":  "https",
+                                "present":  true,
+                                "value":  null,
+                                "importance":  "High"
+                            },
+                            {
+                                "name":  "csp",
+                                "present":  false,
+                                "value":  null,
+                                "importance":  "High"
+                            },
+                            {
+                                "name":  "hsts",
+                                "present":  true,
+                                "value":  "max-age=106384710; includeSubDomains; preload",
+                                "importance":  "High"
+                            },
+                            {
+                                "name":  "referrerPolicy",
+                                "present":  false,
+                                "value":  null,
+                                "importance":  "Low"
+                            },
+                            {
+                                "name":  "xFrameOptions",
+                                "present":  false,
+                                "value":  null,
+                                "importance":  "Medium"
+                            },
+                            {
+                                "name":  "xContentTypeOptions",
+                                "present":  false,
+                                "value":  null,
+                                "importance":  "Medium"
+                            },
+                            {
+                                "name":  "permissionsPolicy",
+                                "present":  false,
+                                "value":  null,
+                                "importance":  "Low"
+                            }
+                        ],
+    "accessibilityScore":  null,
+    "accessibility":  {
+                          "totalImages":  1,
+                          "imagesWithAlt":  0,
+                          "imagesWithoutAlt":  1,
+                          "altCoverage":  0,
+                          "formats":  {
+                                          "png":  1
+                                      },
+                          "headings":  {
+                                           "h1":  1,
+                                           "h2":  5,
+                                           "h3":  1,
+                                           "h4":  0,
+                                           "h5":  0,
+                                           "h6":  0
+                                       },
+                          "noH1":  false,
+                          "multipleH1":  false,
+                          "skippedHeadings":  [
+
+                                              ],
+                          "formsCount":  1,
+                          "formsSummary":  [
+                                               {
+                                                   "index":  0,
+                                                   "totalInputs":  4,
+                                                   "inputsWithoutLabels":  3,
+                                                   "inputsWithoutLabelsList":  [
+                                                                                   {
+                                                                                       "name":  "family",
+                                                                                       "type":  "hidden",
+                                                                                       "placeholder":  ""
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "language",
+                                                                                       "type":  "input",
+                                                                                       "placeholder":  ""
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "go",
+                                                                                       "type":  "hidden",
+                                                                                       "placeholder":  ""
+                                                                                   }
+                                                                               ]
+                                               }
+                                           ]
+                      },
+    "internalLinks":  0,
+    "externalLinks":  374,
+    "anchorLinks":  2,
+    "mailLinks":  0,
+    "telLinks":  0,
+    "downloadLinks":  0,
+    "brokenLinks":  [
+                        {
+                            "url":  "https://en.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://ja.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://de.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://ru.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://fr.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://es.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://zh.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://it.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://pl.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://pt.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://ar.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://fa.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://arz.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://nl.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://ceb.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://sv.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://uk.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://vi.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://war.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://af.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://sq.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://ast.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://az.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://bg.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://zh-min-nan.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://bn.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://be.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://ca.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://cs.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://cy.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://da.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://et.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://el.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://eo.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://eu.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://gl.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://ko.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://ha.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://hy.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://hi.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://hr.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://id.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://he.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://ka.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://lld.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://la.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://lv.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://lt.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://hu.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://mk.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://mg.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://mr.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://ms.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://min.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://my.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://no.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://nn.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://ce.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://uz.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://kk.wikipedia.org/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://ro.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://simple.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://sk.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://sl.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://sr.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://sh.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://fi.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://sw.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://ta.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://tt.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://te.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://th.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://tg.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://azb.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://tr.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://ur.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://zh-yue.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://ace.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://als.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://am.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://an.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://hyw.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://gor.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://ban.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://bjn.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://map-bms.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://ba.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://be-tarask.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://bcl.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://bpy.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://bar.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://bs.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://br.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://cv.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://dag.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://ary.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://nv.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://eml.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://hif.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://fo.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://fy.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://ff.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://ga.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://gd.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://glk.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://gu.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://hak.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://hsb.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://io.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://ig.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://ilo.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://ia.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://ie.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://os.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://is.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://jv.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://kn.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://pam.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://km.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://ks.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://avk.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://ht.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://ku.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://ckb.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://ky.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://mrj.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://lb.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://lij.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://li.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://lmo.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://mai.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://ml.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://xmf.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://mzn.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://cdo.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://mn.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://nap.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://new.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://frr.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://oc.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://mhr.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://or.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://as.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://pa.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://pnb.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://ps.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://pms.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://nds.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://kaa.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://crh.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://qu.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://rue.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://sa.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://sat.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://skr.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://sah.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://sco.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://sn.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://scn.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://si.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://sd.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://szl.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://so.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://su.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://shi.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://tl.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://shn.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://zgh.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://tly.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://tum.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://bug.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://vec.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://vo.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://wa.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://zh-classical.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://wuu.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://yi.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://yo.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://diq.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://bat-smg.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://zu.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://ne.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://mni.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://lad.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://kbd.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://ang.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://smn.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://anp.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://ab.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://roa-rup.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://frp.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://atj.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://arc.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://gn.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://av.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://ay.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://bbc.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://bew.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://bh.wikipedia.org/",
+                            "status":  null
+                        },
+                        {
+                            "url":  "https://bi.wikipedia.org/",
+                            "status":  null
+                        }
+                    ],
+    "brokenImages":  [
+                         {
+                             "url":  "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
+                             "status":  403
+                         }
+                     ],
+    "largestImages":  [
+                          {
+                              "url":  "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
+                              "size":  126
+                          }
+                      ],
+    "recommendations":  [
+                            {
+                                "priority":  "Medium",
+                                "problem":  "Title length out of recommended range",
+                                "explanation":  "Keep title between 10 and 60 characters.",
+                                "fix":  "\u003ctitle\u003eShort but descriptive title\u003c/title\u003e",
+                                "docs":  "https://developers.google.com/search/docs/appearance/title-links"
+                            },
+                            {
+                                "priority":  "High",
+                                "problem":  "Missing security headers",
+                                "explanation":  "Add HSTS, CSP, X-Frame-Options, X-Content-Type-Options, Referrer-Policy",
+                                "fix":  null,
+                                "docs":  null
+                            },
+                            {
+                                "priority":  "Medium",
+                                "problem":  "Missing image alt attributes",
+                                "explanation":  "Provide meaningful alt text for images",
+                                "fix":  "\u003cimg src=\"...\" alt=\"Describe image\"\u003e",
+                                "docs":  "https://developer.mozilla.org/en-US/docs/Web/Accessibility/Alt_text"
+                            },
+                            {
+                                "priority":  "Low",
+                                "problem":  "robots.txt missing",
+                                "explanation":  "Add robots.txt at site root",
+                                "fix":  "/robots.txt",
+                                "docs":  "https://developers.google.com/search/docs/advanced/robots/intro"
+                            },
+                            {
+                                "priority":  "Low",
+                                "problem":  "sitemap.xml missing",
+                                "explanation":  "Add sitemap.xml at site root",
+                                "fix":  "/sitemap.xml",
+                                "docs":  "https://developers.google.com/search/docs/advanced/sitemaps/overview"
+                            }
+                        ]
+}

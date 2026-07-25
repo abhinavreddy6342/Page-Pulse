@@ -1,0 +1,338 @@
+﻿{
+    "success":  true,
+    "statusCode":  200,
+    "responseTime":  677,
+    "pageSize":  210345,
+    "title":  "Google",
+    "metaDescription":  null,
+    "h1":  0,
+    "h2":  0,
+    "links":  26,
+    "images":  7,
+    "imagesWithoutAlt":  6,
+    "wordCount":  1352,
+    "seoScore":  31,
+    "seoChecks":  [
+                      {
+                          "name":  "title",
+                          "passed":  true,
+                          "details":  "Google"
+                      },
+                      {
+                          "name":  "title_length",
+                          "passed":  false,
+                          "details":  6
+                      },
+                      {
+                          "name":  "meta_description",
+                          "passed":  false,
+                          "details":  null
+                      },
+                      {
+                          "name":  "meta_description_length",
+                          "passed":  false,
+                          "details":  0
+                      },
+                      {
+                          "name":  "viewport",
+                          "passed":  false
+                      },
+                      {
+                          "name":  "canonical",
+                          "passed":  false
+                      },
+                      {
+                          "name":  "charset",
+                          "passed":  true
+                      },
+                      {
+                          "name":  "html_lang",
+                          "passed":  true,
+                          "details":  "en-IN"
+                      },
+                      {
+                          "name":  "favicon",
+                          "passed":  true
+                      },
+                      {
+                          "name":  "open_graph",
+                          "passed":  false,
+                          "details":  {
+
+                                      }
+                      },
+                      {
+                          "name":  "twitter_card",
+                          "passed":  false,
+                          "details":  {
+
+                                      }
+                      },
+                      {
+                          "name":  "structured_data",
+                          "passed":  false,
+                          "details":  [
+
+                                      ]
+                      },
+                      {
+                          "name":  "robots_meta",
+                          "passed":  false
+                      }
+                  ],
+    "seoRecommendations":  [
+                               {
+                                   "priority":  "Medium",
+                                   "problem":  "Title length out of recommended range",
+                                   "recommendation":  "Keep title between 10 and 60 characters.",
+                                   "fix":  "\u003ctitle\u003eShort but descriptive title\u003c/title\u003e",
+                                   "docs":  "https://developers.google.com/search/docs/appearance/title-links"
+                               },
+                               {
+                                   "priority":  "High",
+                                   "problem":  "Missing meta description",
+                                   "recommendation":  "Add a meta description (50-160 chars).",
+                                   "fix":  "\u003cmeta name=\"description\" content=\"Describe the page here\"\u003e",
+                                   "docs":  "https://developers.google.com/search/docs/appearance/snippet"
+                               },
+                               {
+                                   "priority":  "High",
+                                   "problem":  "Missing viewport meta tag",
+                                   "recommendation":  "Add responsive viewport meta tag.",
+                                   "fix":  "\u003cmeta name=\"viewport\" content=\"width=device-width, initial-scale=1\"\u003e",
+                                   "docs":  "https://developer.mozilla.org/en-US/docs/Mobile/Viewport_meta_tag"
+                               }
+                           ],
+    "og":  {
+
+           },
+    "twitter":  {
+
+                },
+    "structuredData":  [
+
+                       ],
+    "htmlLang":  "en-IN",
+    "robotsTxtAvailable":  true,
+    "sitemapAvailable":  true,
+    "performanceScore":  50,
+    "performanceRating":  "Average",
+    "contentType":  "text/html; charset=UTF-8",
+    "compression":  null,
+    "encoding":  null,
+    "redirectCount":  0,
+    "finalUrl":  "https://www.google.com/",
+    "estimatedDownloadTime":  1.683,
+    "securityScore":  57,
+    "securityHeaders":  {
+                            "csp":  null,
+                            "hsts":  "max-age=31536000",
+                            "referrerPolicy":  null,
+                            "xFrameOptions":  "SAMEORIGIN",
+                            "xContentTypeOptions":  null,
+                            "permissionsPolicy":  "unload=()",
+                            "crossOriginEmbedderPolicy":  null,
+                            "crossOriginOpenerPolicy":  "same-origin-allow-popups; report-to=\"gws\"",
+                            "crossOriginResourcePolicy":  null
+                        },
+    "securityDetails":  [
+                            {
+                                "name":  "https",
+                                "present":  true,
+                                "value":  null,
+                                "importance":  "High"
+                            },
+                            {
+                                "name":  "csp",
+                                "present":  false,
+                                "value":  null,
+                                "importance":  "High"
+                            },
+                            {
+                                "name":  "hsts",
+                                "present":  true,
+                                "value":  "max-age=31536000",
+                                "importance":  "High"
+                            },
+                            {
+                                "name":  "referrerPolicy",
+                                "present":  false,
+                                "value":  null,
+                                "importance":  "Low"
+                            },
+                            {
+                                "name":  "xFrameOptions",
+                                "present":  true,
+                                "value":  "SAMEORIGIN",
+                                "importance":  "Medium"
+                            },
+                            {
+                                "name":  "xContentTypeOptions",
+                                "present":  false,
+                                "value":  null,
+                                "importance":  "Medium"
+                            },
+                            {
+                                "name":  "permissionsPolicy",
+                                "present":  true,
+                                "value":  "unload=()",
+                                "importance":  "Low"
+                            }
+                        ],
+    "accessibilityScore":  14,
+    "accessibility":  {
+                          "totalImages":  7,
+                          "imagesWithAlt":  1,
+                          "imagesWithoutAlt":  6,
+                          "altCoverage":  14,
+                          "formats":  {
+                                          "data:image/gif;base64,r0lgodlhaqabaid/amdawaaaach5baeaaaaalaaaaaabaaeaaaicraeaow==":  1
+                                      },
+                          "headings":  {
+                                           "h1":  0,
+                                           "h2":  0,
+                                           "h3":  0,
+                                           "h4":  0,
+                                           "h5":  0,
+                                           "h6":  0
+                                       },
+                          "noH1":  true,
+                          "multipleH1":  false,
+                          "skippedHeadings":  [
+
+                                              ],
+                          "formsCount":  1,
+                          "formsSummary":  [
+                                               {
+                                                   "index":  0,
+                                                   "totalInputs":  11,
+                                                   "inputsWithoutLabels":  11,
+                                                   "inputsWithoutLabelsList":  [
+                                                                                   {
+                                                                                       "name":  null,
+                                                                                       "type":  "file",
+                                                                                       "placeholder":  ""
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  null,
+                                                                                       "type":  "file",
+                                                                                       "placeholder":  ""
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "q",
+                                                                                       "type":  "input",
+                                                                                       "placeholder":  ""
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "btnK",
+                                                                                       "type":  "submit",
+                                                                                       "placeholder":  ""
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "btnI",
+                                                                                       "type":  "submit",
+                                                                                       "placeholder":  ""
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "btnK",
+                                                                                       "type":  "submit",
+                                                                                       "placeholder":  ""
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "btnI",
+                                                                                       "type":  "submit",
+                                                                                       "placeholder":  ""
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "sca_esv",
+                                                                                       "type":  "hidden",
+                                                                                       "placeholder":  ""
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "source",
+                                                                                       "type":  "hidden",
+                                                                                       "placeholder":  ""
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "ei",
+                                                                                       "type":  "hidden",
+                                                                                       "placeholder":  ""
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "iflsig",
+                                                                                       "type":  "hidden",
+                                                                                       "placeholder":  ""
+                                                                                   }
+                                                                               ]
+                                               }
+                                           ]
+                      },
+    "internalLinks":  17,
+    "externalLinks":  9,
+    "anchorLinks":  0,
+    "mailLinks":  0,
+    "telLinks":  0,
+    "downloadLinks":  0,
+    "brokenLinks":  [
+                        {
+                            "url":  "https://support.google.com/websearch/?p=ws_results_help\u0026hl=en-IN\u0026fg=1",
+                            "status":  404
+                        }
+                    ],
+    "brokenImages":  [
+                         {
+                             "url":  "data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+                             "status":  405
+                         }
+                     ],
+    "largestImages":  [
+                          {
+                              "url":  "data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+                              "size":  43
+                          }
+                      ],
+    "recommendations":  [
+                            {
+                                "priority":  "Medium",
+                                "problem":  "Title length out of recommended range",
+                                "explanation":  "Keep title between 10 and 60 characters.",
+                                "fix":  "\u003ctitle\u003eShort but descriptive title\u003c/title\u003e",
+                                "docs":  "https://developers.google.com/search/docs/appearance/title-links"
+                            },
+                            {
+                                "priority":  "High",
+                                "problem":  "Missing meta description",
+                                "explanation":  "Add a meta description (50-160 chars).",
+                                "fix":  "\u003cmeta name=\"description\" content=\"Describe the page here\"\u003e",
+                                "docs":  "https://developers.google.com/search/docs/appearance/snippet"
+                            },
+                            {
+                                "priority":  "High",
+                                "problem":  "Missing viewport meta tag",
+                                "explanation":  "Add responsive viewport meta tag.",
+                                "fix":  "\u003cmeta name=\"viewport\" content=\"width=device-width, initial-scale=1\"\u003e",
+                                "docs":  "https://developer.mozilla.org/en-US/docs/Mobile/Viewport_meta_tag"
+                            },
+                            {
+                                "priority":  "High",
+                                "problem":  "Performance issues",
+                                "explanation":  "Slow response time or large page size",
+                                "fix":  null,
+                                "docs":  null
+                            },
+                            {
+                                "priority":  "High",
+                                "problem":  "Missing security headers",
+                                "explanation":  "Add HSTS, CSP, X-Frame-Options, X-Content-Type-Options, Referrer-Policy",
+                                "fix":  null,
+                                "docs":  null
+                            },
+                            {
+                                "priority":  "Medium",
+                                "problem":  "Missing image alt attributes",
+                                "explanation":  "Provide meaningful alt text for images",
+                                "fix":  "\u003cimg src=\"...\" alt=\"Describe image\"\u003e",
+                                "docs":  "https://developer.mozilla.org/en-US/docs/Web/Accessibility/Alt_text"
+                            }
+                        ]
+}

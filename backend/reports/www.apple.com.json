@@ -1,0 +1,477 @@
+﻿{
+    "success":  true,
+    "statusCode":  200,
+    "responseTime":  232,
+    "pageSize":  249144,
+    "title":  "Apple",
+    "metaDescription":  null,
+    "h1":  1,
+    "h2":  5,
+    "links":  140,
+    "images":  47,
+    "imagesWithoutAlt":  38,
+    "wordCount":  4489,
+    "seoScore":  54,
+    "seoChecks":  [
+                      {
+                          "name":  "title",
+                          "passed":  true,
+                          "details":  "Apple"
+                      },
+                      {
+                          "name":  "title_length",
+                          "passed":  false,
+                          "details":  5
+                      },
+                      {
+                          "name":  "meta_description",
+                          "passed":  false,
+                          "details":  null
+                      },
+                      {
+                          "name":  "meta_description_length",
+                          "passed":  false,
+                          "details":  0
+                      },
+                      {
+                          "name":  "viewport",
+                          "passed":  true
+                      },
+                      {
+                          "name":  "canonical",
+                          "passed":  true
+                      },
+                      {
+                          "name":  "charset",
+                          "passed":  true
+                      },
+                      {
+                          "name":  "html_lang",
+                          "passed":  true,
+                          "details":  "en-US"
+                      },
+                      {
+                          "name":  "favicon",
+                          "passed":  false
+                      },
+                      {
+                          "name":  "open_graph",
+                          "passed":  true,
+                          "details":  {
+                                          "title":  "Apple",
+                                          "description":  "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and expert device support.",
+                                          "image":  "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202604211141",
+                                          "url":  "https://www.apple.com/",
+                                          "type":  "website",
+                                          "site_name":  "Apple"
+                                      }
+                      },
+                      {
+                          "name":  "twitter_card",
+                          "passed":  false,
+                          "details":  {
+
+                                      }
+                      },
+                      {
+                          "name":  "structured_data",
+                          "passed":  true,
+                          "details":  [
+                                          {
+                                              "@context":  "http://schema.org",
+                                              "@id":  "https://www.apple.com/#organization",
+                                              "@type":  "Organization",
+                                              "name":  "Apple",
+                                              "url":  "https://www.apple.com/",
+                                              "logo":  "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?202604211141",
+                                              "subOrganization":  {
+                                                                      "@type":  "Organization",
+                                                                      "name":  "Apple Support",
+                                                                      "url":  "https://support.apple.com",
+                                                                      "@id":  "https://support.apple.com/#organization"
+                                                                  },
+                                              "contactPoint":  [
+                                                                   {
+                                                                       "@type":  "ContactPoint",
+                                                                       "telephone":  "+1-800-692-7753",
+                                                                       "contactType":  "sales",
+                                                                       "areaServed":  "US"
+                                                                   },
+                                                                   {
+                                                                       "@type":  "ContactPoint",
+                                                                       "telephone":  "+1-800-275-2273",
+                                                                       "contactType":  "technical support",
+                                                                       "areaServed":  "US",
+                                                                       "availableLanguage":  [
+                                                                                                 "EN",
+                                                                                                 "ES"
+                                                                                             ]
+                                                                   },
+                                                                   {
+                                                                       "@type":  "ContactPoint",
+                                                                       "telephone":  "+1-800-275-2273",
+                                                                       "contactType":  "customer support",
+                                                                       "areaServed":  "US",
+                                                                       "availableLanguage":  [
+                                                                                                 "EN",
+                                                                                                 "ES"
+                                                                                             ]
+                                                                   }
+                                                               ],
+                                              "sameAs":  [
+                                                             "http://www.wikidata.org/entity/Q312",
+                                                             "https://www.youtube.com/user/Apple",
+                                                             "https://www.linkedin.com/company/apple",
+                                                             "https://www.facebook.com/Apple",
+                                                             "https://www.twitter.com/Apple"
+                                                         ]
+                                          },
+                                          {
+                                              "@context":  "http://schema.org",
+                                              "@id":  "https://www.apple.com/#website",
+                                              "@type":  "WebSite",
+                                              "url":  "https://www.apple.com/",
+                                              "name":  "Apple",
+                                              "potentialAction":  {
+                                                                      "@type":  "SearchAction",
+                                                                      "target":  "https://www.apple.com/us/search/{search_term_string}?src=mc_google",
+                                                                      "query-input":  "required name=search_term_string"
+                                                                  }
+                                          },
+                                          {
+                                              "@context":  "http://schema.org",
+                                              "@id":  "https://www.apple.com/#webpage",
+                                              "@type":  "WebPage",
+                                              "url":  "https://www.apple.com/",
+                                              "name":  "Apple"
+                                          }
+                                      ]
+                      },
+                      {
+                          "name":  "robots_meta",
+                          "passed":  false
+                      }
+                  ],
+    "seoRecommendations":  [
+                               {
+                                   "priority":  "Medium",
+                                   "problem":  "Title length out of recommended range",
+                                   "recommendation":  "Keep title between 10 and 60 characters.",
+                                   "fix":  "\u003ctitle\u003eShort but descriptive title\u003c/title\u003e",
+                                   "docs":  "https://developers.google.com/search/docs/appearance/title-links"
+                               },
+                               {
+                                   "priority":  "High",
+                                   "problem":  "Missing meta description",
+                                   "recommendation":  "Add a meta description (50-160 chars).",
+                                   "fix":  "\u003cmeta name=\"description\" content=\"Describe the page here\"\u003e",
+                                   "docs":  "https://developers.google.com/search/docs/appearance/snippet"
+                               }
+                           ],
+    "og":  {
+               "title":  "Apple",
+               "description":  "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and expert device support.",
+               "image":  "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202604211141",
+               "url":  "https://www.apple.com/",
+               "type":  "website",
+               "site_name":  "Apple"
+           },
+    "twitter":  {
+
+                },
+    "structuredData":  [
+                           {
+                               "@context":  "http://schema.org",
+                               "@id":  "https://www.apple.com/#organization",
+                               "@type":  "Organization",
+                               "name":  "Apple",
+                               "url":  "https://www.apple.com/",
+                               "logo":  "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?202604211141",
+                               "subOrganization":  {
+                                                       "@type":  "Organization",
+                                                       "name":  "Apple Support",
+                                                       "url":  "https://support.apple.com",
+                                                       "@id":  "https://support.apple.com/#organization"
+                                                   },
+                               "contactPoint":  [
+                                                    {
+                                                        "@type":  "ContactPoint",
+                                                        "telephone":  "+1-800-692-7753",
+                                                        "contactType":  "sales",
+                                                        "areaServed":  "US"
+                                                    },
+                                                    {
+                                                        "@type":  "ContactPoint",
+                                                        "telephone":  "+1-800-275-2273",
+                                                        "contactType":  "technical support",
+                                                        "areaServed":  "US",
+                                                        "availableLanguage":  [
+                                                                                  "EN",
+                                                                                  "ES"
+                                                                              ]
+                                                    },
+                                                    {
+                                                        "@type":  "ContactPoint",
+                                                        "telephone":  "+1-800-275-2273",
+                                                        "contactType":  "customer support",
+                                                        "areaServed":  "US",
+                                                        "availableLanguage":  [
+                                                                                  "EN",
+                                                                                  "ES"
+                                                                              ]
+                                                    }
+                                                ],
+                               "sameAs":  [
+                                              "http://www.wikidata.org/entity/Q312",
+                                              "https://www.youtube.com/user/Apple",
+                                              "https://www.linkedin.com/company/apple",
+                                              "https://www.facebook.com/Apple",
+                                              "https://www.twitter.com/Apple"
+                                          ]
+                           },
+                           {
+                               "@context":  "http://schema.org",
+                               "@id":  "https://www.apple.com/#website",
+                               "@type":  "WebSite",
+                               "url":  "https://www.apple.com/",
+                               "name":  "Apple",
+                               "potentialAction":  {
+                                                       "@type":  "SearchAction",
+                                                       "target":  "https://www.apple.com/us/search/{search_term_string}?src=mc_google",
+                                                       "query-input":  "required name=search_term_string"
+                                                   }
+                           },
+                           {
+                               "@context":  "http://schema.org",
+                               "@id":  "https://www.apple.com/#webpage",
+                               "@type":  "WebPage",
+                               "url":  "https://www.apple.com/",
+                               "name":  "Apple"
+                           }
+                       ],
+    "htmlLang":  "en-US",
+    "robotsTxtAvailable":  true,
+    "sitemapAvailable":  true,
+    "performanceScore":  50,
+    "performanceRating":  "Average",
+    "contentType":  "text/html; charset=utf-8",
+    "compression":  null,
+    "encoding":  "chunked",
+    "redirectCount":  0,
+    "finalUrl":  "https://www.apple.com/",
+    "estimatedDownloadTime":  1.993,
+    "securityScore":  86,
+    "securityHeaders":  {
+                            "csp":  "default-src \u0027self\u0027 blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src \u0027unsafe-inline\u0027 blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src \u0027unsafe-inline\u0027 \u0027unsafe-eval\u0027 blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src \u0027unsafe-inline\u0027 *.apple.com",
+                            "hsts":  "max-age=31536000; includeSubdomains; preload",
+                            "referrerPolicy":  "no-referrer-when-downgrade",
+                            "xFrameOptions":  "SAMEORIGIN",
+                            "xContentTypeOptions":  "nosniff",
+                            "permissionsPolicy":  null,
+                            "crossOriginEmbedderPolicy":  null,
+                            "crossOriginOpenerPolicy":  null,
+                            "crossOriginResourcePolicy":  null
+                        },
+    "securityDetails":  [
+                            {
+                                "name":  "https",
+                                "present":  true,
+                                "value":  null,
+                                "importance":  "High"
+                            },
+                            {
+                                "name":  "csp",
+                                "present":  true,
+                                "value":  "default-src \u0027self\u0027 blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src \u0027unsafe-inline\u0027 blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src \u0027unsafe-inline\u0027 \u0027unsafe-eval\u0027 blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src \u0027unsafe-inline\u0027 *.apple.com",
+                                "importance":  "High"
+                            },
+                            {
+                                "name":  "hsts",
+                                "present":  true,
+                                "value":  "max-age=31536000; includeSubdomains; preload",
+                                "importance":  "High"
+                            },
+                            {
+                                "name":  "referrerPolicy",
+                                "present":  true,
+                                "value":  "no-referrer-when-downgrade",
+                                "importance":  "Low"
+                            },
+                            {
+                                "name":  "xFrameOptions",
+                                "present":  true,
+                                "value":  "SAMEORIGIN",
+                                "importance":  "Medium"
+                            },
+                            {
+                                "name":  "xContentTypeOptions",
+                                "present":  true,
+                                "value":  "nosniff",
+                                "importance":  "Medium"
+                            },
+                            {
+                                "name":  "permissionsPolicy",
+                                "present":  false,
+                                "value":  null,
+                                "importance":  "Low"
+                            }
+                        ],
+    "accessibilityScore":  19,
+    "accessibility":  {
+                          "totalImages":  47,
+                          "imagesWithAlt":  9,
+                          "imagesWithoutAlt":  38,
+                          "altCoverage":  19,
+                          "formats":  {
+                                          "png":  21,
+                                          "jpg":  26
+                                      },
+                          "headings":  {
+                                           "h1":  1,
+                                           "h2":  5,
+                                           "h3":  17,
+                                           "h4":  0,
+                                           "h5":  0,
+                                           "h6":  0
+                                       },
+                          "noH1":  false,
+                          "multipleH1":  false,
+                          "skippedHeadings":  [
+
+                                              ],
+                          "formsCount":  1,
+                          "formsSummary":  [
+                                               {
+                                                   "index":  0,
+                                                   "totalInputs":  5,
+                                                   "inputsWithoutLabels":  5,
+                                                   "inputsWithoutLabelsList":  [
+                                                                                   {
+                                                                                       "name":  null,
+                                                                                       "type":  "input",
+                                                                                       "placeholder":  "Search apple.com"
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "src",
+                                                                                       "type":  "hidden",
+                                                                                       "placeholder":  ""
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "type",
+                                                                                       "type":  "hidden",
+                                                                                       "placeholder":  ""
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "page",
+                                                                                       "type":  "hidden",
+                                                                                       "placeholder":  ""
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "locale",
+                                                                                       "type":  "hidden",
+                                                                                       "placeholder":  ""
+                                                                                   }
+                                                                               ]
+                                               }
+                                           ]
+                      },
+    "internalLinks":  105,
+    "externalLinks":  25,
+    "anchorLinks":  9,
+    "mailLinks":  0,
+    "telLinks":  1,
+    "downloadLinks":  0,
+    "brokenLinks":  [
+                        {
+                            "url":  "https://www.apple.com/us/shop/goto/bag",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://www.apple.com/us/shop/goto/account",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://account.apple.com/",
+                            "status":  405
+                        },
+                        {
+                            "url":  "https://investor.apple.com/",
+                            "status":  403
+                        }
+                    ],
+    "brokenImages":  [
+
+                     ],
+    "largestImages":  [
+                          {
+                              "url":  "https://www.apple.com/v/home/images/back-to-school-2026/a/hero_back_to_school_startframe__cd4vg5frm39e_large.png",
+                              "size":  368677
+                          },
+                          {
+                              "url":  "https://is1-ssl.mzstatic.com/image/thumb/koGPFMce0cxPTuuHdx325g/1250x668sr.jpg",
+                              "size":  316806
+                          },
+                          {
+                              "url":  "https://is1-ssl.mzstatic.com/image/thumb/CqMFl0CvUAUE1axxV4k-ew/1250x668sr.jpg",
+                              "size":  285280
+                          },
+                          {
+                              "url":  "https://is1-ssl.mzstatic.com/image/thumb/qkaEsaFl5id_Gx38S0IVLw/1250x668sr.jpg",
+                              "size":  258166
+                          },
+                          {
+                              "url":  "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/78/57/f6/7857f6ec-a4ed-87dc-dea9-a6ed02888722/ebd59c17-8e95-49b1-aec0-44aec57388ee.png/1250x668sr.jpg",
+                              "size":  252409
+                          },
+                          {
+                              "url":  "https://is1-ssl.mzstatic.com/image/thumb/hsU_QQ029KLmMQJURx1nIQ/1250x668sr.jpg",
+                              "size":  222893
+                          },
+                          {
+                              "url":  "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/33/9e/cf/339ecfe7-f515-8594-2e48-d991803409ea/5a944fdc-acd7-47a8-89e7-274d84cf4276.png/1250x668sr.jpg",
+                              "size":  220311
+                          },
+                          {
+                              "url":  "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/11/cd/47/11cd47ca-af61-71a8-6b02-4a0af9d55077/a54b4338-9340-422f-b5c6-1420bf850b01.png/1250x668sr.jpg",
+                              "size":  216726
+                          },
+                          {
+                              "url":  "https://is1-ssl.mzstatic.com/image/thumb/hRaOrIKahRFcNlKt6UV4Ow/1250x668sr.jpg",
+                              "size":  160370
+                          },
+                          {
+                              "url":  "https://www.apple.com/v/home/images/back-to-school-2026/a/hero_back_to_school_2026__cz07tzsg14sy_large.jpg",
+                              "size":  149586
+                          }
+                      ],
+    "recommendations":  [
+                            {
+                                "priority":  "Medium",
+                                "problem":  "Title length out of recommended range",
+                                "explanation":  "Keep title between 10 and 60 characters.",
+                                "fix":  "\u003ctitle\u003eShort but descriptive title\u003c/title\u003e",
+                                "docs":  "https://developers.google.com/search/docs/appearance/title-links"
+                            },
+                            {
+                                "priority":  "High",
+                                "problem":  "Missing meta description",
+                                "explanation":  "Add a meta description (50-160 chars).",
+                                "fix":  "\u003cmeta name=\"description\" content=\"Describe the page here\"\u003e",
+                                "docs":  "https://developers.google.com/search/docs/appearance/snippet"
+                            },
+                            {
+                                "priority":  "High",
+                                "problem":  "Performance issues",
+                                "explanation":  "Slow response time or large page size",
+                                "fix":  null,
+                                "docs":  null
+                            },
+                            {
+                                "priority":  "Medium",
+                                "problem":  "Missing image alt attributes",
+                                "explanation":  "Provide meaningful alt text for images",
+                                "fix":  "\u003cimg src=\"...\" alt=\"Describe image\"\u003e",
+                                "docs":  "https://developer.mozilla.org/en-US/docs/Web/Accessibility/Alt_text"
+                            }
+                        ]
+}

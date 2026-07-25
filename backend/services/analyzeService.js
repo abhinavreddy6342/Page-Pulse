@@ -63,6 +63,30 @@ export async function analyze(urlInput) {
   const security = analyzeSecurity(response.headers || {}, baseUrl);
   const perf = analyzePerformance(response, responseTime, pageSize);
 
+  // Build accessibilityChecks array combining accessibility results and some SEO checks
+  const accessibilityChecks = [];
+  try {
+    const imagesHaveAltPassed = (typeof accessibility.altCoverage === 'number') ? accessibility.altCoverage >= 100 : (accessibility.imagesWithoutAlt === 0);
+    accessibilityChecks.push({ name: 'images_have_alt', passed: !!imagesHaveAltPassed, details: { altCoverage: accessibility.altCoverage ?? null, imagesWithoutAlt: accessibility.imagesWithoutAlt ?? 0 } });
+
+    const headingStructurePassed = !(accessibility.multipleH1) && !accessibility.noH1 && (!accessibility.skippedHeadings || accessibility.skippedHeadings.length === 0);
+    accessibilityChecks.push({ name: 'heading_structure', passed: !!headingStructurePassed, details: { headings: accessibility.headings || null, skipped: accessibility.skippedHeadings || [] } });
+
+    const viewportPassed = !!seo?.hasViewport;
+    accessibilityChecks.push({ name: 'viewport', passed: viewportPassed, details: seo?.hasViewport ?? false });
+
+    const languagePassed = !!(seo?.htmlLang);
+    accessibilityChecks.push({ name: 'language', passed: languagePassed, details: seo?.htmlLang ?? null });
+
+    const formsHaveLabels = Array.isArray(accessibility.formsSummary) ? accessibility.formsSummary.every(f => f.inputsWithoutLabels === 0) : true;
+    accessibilityChecks.push({ name: 'form_labels', passed: !!formsHaveLabels, details: { formsCount: accessibility.formsCount ?? 0, formsSummary: accessibility.formsSummary || [] } });
+
+    const ariaLabelsPassed = !(Array.isArray(accessibility.ariaIssues) && accessibility.ariaIssues.length > 0);
+    accessibilityChecks.push({ name: 'aria_labels', passed: !!ariaLabelsPassed, details: accessibility.ariaIssues || [] });
+  } catch (e) {
+    // fallback: ensure array exists
+  }
+
   // robots.txt and sitemap availability
   let robotsTxtAvailable = false;
   let sitemapAvailable = false;
@@ -182,9 +206,14 @@ export async function analyze(urlInput) {
     seoScore: (seo && typeof seo.seoScore === 'number') ? seo.seoScore : 0,
     seoChecks: Array.isArray(seo?.seoChecks) ? seo.seoChecks : [],
     seoRecommendations: Array.isArray(seo?.seoRecommendations) ? seo.seoRecommendations : [],
+    // legacy shapes
     og: seo?.og || {},
     twitter: seo?.twitter || {},
     structuredData: Array.isArray(seo?.structuredData) ? seo.structuredData : [],
+    // new requested shapes
+    open_graph: seo?.open_graph || { exists: false, title: null, description: null, image: null },
+    twitter_card: seo?.twitter_card || { exists: false, title: null, description: null, image: null },
+    structured_data: seo?.structured_data || { exists: false, schemas: [] },
     htmlLang: seo?.htmlLang || "",
     robotsTxtAvailable: !!robotsTxtAvailable,
     sitemapAvailable: !!sitemapAvailable,
@@ -207,7 +236,7 @@ export async function analyze(urlInput) {
     // Accessibility
     accessibility: accessibility || {},
     accessibilityScore: (typeof accessibility?.altCoverage === 'number') ? Math.round(accessibility.altCoverage) : (accessibility ? (accessibility.imagesWithAlt && accessibility.totalImages ? Math.round((accessibility.imagesWithAlt / accessibility.totalImages) * 100) : 0) : 0),
-    accessibilityChecks: Array.isArray(accessibility?.checks) ? accessibility.checks : [],
+    accessibilityChecks: Array.isArray(accessibilityChecks) ? accessibilityChecks : (Array.isArray(accessibility?.checks) ? accessibility.checks : []),
 
     // Links
     internalLinks: Array.isArray(linksAnalysis?.internal) ? linksAnalysis.internal.length : 0,

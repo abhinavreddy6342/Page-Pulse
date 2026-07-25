@@ -1,0 +1,35 @@
+{
+  "name": "frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "axios": "^1.18.1",
+    "framer-motion": "latest",
+    "lucide-react": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-icons": "latest",
+    "tailwindcss": "latest",
+    "recharts": "latest",
+    "jspdf": "latest",
+    "html2canvas": "latest"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@vitejs/plugin-react": "latest",
+    "autoprefixer": "^10.5.4",
+    "eslint": "latest",
+    "eslint-plugin-react-hooks": "latest",
+    "eslint-plugin-react-refresh": "latest",
+    "postcss": "^8.5.23",
+    "vite": "latest"
+  }
+}

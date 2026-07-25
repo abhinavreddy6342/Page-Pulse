@@ -1,0 +1,522 @@
+﻿{
+    "success":  true,
+    "statusCode":  200,
+    "responseTime":  272,
+    "pageSize":  1892741,
+    "title":  "OpenAI | Research \u0026 Deployment",
+    "metaDescription":  "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems.",
+    "h1":  0,
+    "h2":  6,
+    "links":  90,
+    "images":  20,
+    "imagesWithoutAlt":  0,
+    "wordCount":  29688,
+    "seoScore":  92,
+    "seoChecks":  [
+                      {
+                          "name":  "title",
+                          "passed":  true,
+                          "details":  "OpenAI | Research \u0026 Deployment"
+                      },
+                      {
+                          "name":  "title_length",
+                          "passed":  true,
+                          "details":  30
+                      },
+                      {
+                          "name":  "meta_description",
+                          "passed":  true,
+                          "details":  "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems."
+                      },
+                      {
+                          "name":  "meta_description_length",
+                          "passed":  true,
+                          "details":  126
+                      },
+                      {
+                          "name":  "viewport",
+                          "passed":  true
+                      },
+                      {
+                          "name":  "canonical",
+                          "passed":  true
+                      },
+                      {
+                          "name":  "charset",
+                          "passed":  true
+                      },
+                      {
+                          "name":  "html_lang",
+                          "passed":  true,
+                          "details":  "en-US"
+                      },
+                      {
+                          "name":  "favicon",
+                          "passed":  true
+                      },
+                      {
+                          "name":  "open_graph",
+                          "passed":  true,
+                          "details":  {
+                                          "title":  "OpenAI | Research \u0026 Deployment",
+                                          "description":  "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems.",
+                                          "image":  "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600\u0026h=900\u0026fit=fill",
+                                          "url":  "https://openai.com/",
+                                          "type":  "website",
+                                          "site_name":  "OpenAI"
+                                      }
+                      },
+                      {
+                          "name":  "twitter_card",
+                          "passed":  true,
+                          "details":  {
+                                          "card":  "summary_large_image",
+                                          "title":  "OpenAI | Research \u0026 Deployment",
+                                          "description":  "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems.",
+                                          "image":  "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600\u0026h=900\u0026fit=fill"
+                                      }
+                      },
+                      {
+                          "name":  "structured_data",
+                          "passed":  false,
+                          "details":  [
+
+                                      ]
+                      },
+                      {
+                          "name":  "robots_meta",
+                          "passed":  true
+                      }
+                  ],
+    "seoRecommendations":  [
+
+                           ],
+    "og":  {
+               "title":  "OpenAI | Research \u0026 Deployment",
+               "description":  "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems.",
+               "image":  "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600\u0026h=900\u0026fit=fill",
+               "url":  "https://openai.com/",
+               "type":  "website",
+               "site_name":  "OpenAI"
+           },
+    "twitter":  {
+                    "card":  "summary_large_image",
+                    "title":  "OpenAI | Research \u0026 Deployment",
+                    "description":  "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems.",
+                    "image":  "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600\u0026h=900\u0026fit=fill"
+                },
+    "structuredData":  [
+
+                       ],
+    "htmlLang":  "en-US",
+    "robotsTxtAvailable":  true,
+    "sitemapAvailable":  true,
+    "performanceScore":  20,
+    "performanceRating":  "Poor",
+    "contentType":  "text/html; charset=utf-8",
+    "compression":  null,
+    "encoding":  "chunked",
+    "redirectCount":  0,
+    "finalUrl":  "https://openai.com/",
+    "estimatedDownloadTime":  15.142,
+    "securityScore":  57,
+    "securityHeaders":  {
+                            "csp":  "default-src \u0027self\u0027; base-uri \u0027self\u0027; object-src \u0027none\u0027; frame-ancestors \u0027none\u0027; script-src \u0027self\u0027 \u0027unsafe-inline\u0027 \u0027unsafe-eval\u0027 https://www.googleadservices.com https://www.google.com https://www.googletagmanager.com https://pagead2.googlesyndication.com https://googleads.g.doubleclick.net https://static.cloudflareinsights.com https://snap.licdn.com https://www.redditstatic.com https://bat.bing.com https://connect.facebook.net https://challenges.cloudflare.com https://*.mktoweb.com https://www.youtube.com https://s.ytimg.com https://player.vimeo.com https://cdn.leandata.com https://cdn1.leandata.com https://api.observablehq.com https://cdn.jsdelivr.net; script-src-attr \u0027none\u0027; style-src \u0027self\u0027 \u0027unsafe-inline\u0027 https://*.mktoweb.com https://cdn.jsdelivr.net; img-src \u0027self\u0027 data: blob: https:; font-src \u0027self\u0027 data: https://cdn.openai.com https://cdn.jsdelivr.net; connect-src \u0027self\u0027 https://app.leandata.com https: wss:; media-src \u0027self\u0027 data: blob: https:; frame-src \u0027self\u0027 https://cdn.openai.com https://gpt5-coding-examples.vercel.app https://docs.google.com https://player.twitch.tv https://player.vimeo.com https://vimeo.com https://www.youtube.com https://m.youtube.com https://youtu.be https://www.youtube-nocookie.com https://w.soundcloud.com https://*.mktoweb.com https://challenges.cloudflare.com https://openai-opco.my.leandata.com https:; worker-src \u0027self\u0027 blob:; manifest-src \u0027self\u0027; form-action \u0027self\u0027 https://*.mktoweb.com; upgrade-insecure-requests",
+                            "hsts":  "max-age=31536000; includeSubDomains; preload",
+                            "referrerPolicy":  null,
+                            "xFrameOptions":  null,
+                            "xContentTypeOptions":  "nosniff",
+                            "permissionsPolicy":  null,
+                            "crossOriginEmbedderPolicy":  null,
+                            "crossOriginOpenerPolicy":  null,
+                            "crossOriginResourcePolicy":  null
+                        },
+    "securityDetails":  [
+                            {
+                                "name":  "https",
+                                "present":  true,
+                                "value":  null,
+                                "importance":  "High"
+                            },
+                            {
+                                "name":  "csp",
+                                "present":  true,
+                                "value":  "default-src \u0027self\u0027; base-uri \u0027self\u0027; object-src \u0027none\u0027; frame-ancestors \u0027none\u0027; script-src \u0027self\u0027 \u0027unsafe-inline\u0027 \u0027unsafe-eval\u0027 https://www.googleadservices.com https://www.google.com https://www.googletagmanager.com https://pagead2.googlesyndication.com https://googleads.g.doubleclick.net https://static.cloudflareinsights.com https://snap.licdn.com https://www.redditstatic.com https://bat.bing.com https://connect.facebook.net https://challenges.cloudflare.com https://*.mktoweb.com https://www.youtube.com https://s.ytimg.com https://player.vimeo.com https://cdn.leandata.com https://cdn1.leandata.com https://api.observablehq.com https://cdn.jsdelivr.net; script-src-attr \u0027none\u0027; style-src \u0027self\u0027 \u0027unsafe-inline\u0027 https://*.mktoweb.com https://cdn.jsdelivr.net; img-src \u0027self\u0027 data: blob: https:; font-src \u0027self\u0027 data: https://cdn.openai.com https://cdn.jsdelivr.net; connect-src \u0027self\u0027 https://app.leandata.com https: wss:; media-src \u0027self\u0027 data: blob: https:; frame-src \u0027self\u0027 https://cdn.openai.com https://gpt5-coding-examples.vercel.app https://docs.google.com https://player.twitch.tv https://player.vimeo.com https://vimeo.com https://www.youtube.com https://m.youtube.com https://youtu.be https://www.youtube-nocookie.com https://w.soundcloud.com https://*.mktoweb.com https://challenges.cloudflare.com https://openai-opco.my.leandata.com https:; worker-src \u0027self\u0027 blob:; manifest-src \u0027self\u0027; form-action \u0027self\u0027 https://*.mktoweb.com; upgrade-insecure-requests",
+                                "importance":  "High"
+                            },
+                            {
+                                "name":  "hsts",
+                                "present":  true,
+                                "value":  "max-age=31536000; includeSubDomains; preload",
+                                "importance":  "High"
+                            },
+                            {
+                                "name":  "referrerPolicy",
+                                "present":  false,
+                                "value":  null,
+                                "importance":  "Low"
+                            },
+                            {
+                                "name":  "xFrameOptions",
+                                "present":  false,
+                                "value":  null,
+                                "importance":  "Medium"
+                            },
+                            {
+                                "name":  "xContentTypeOptions",
+                                "present":  true,
+                                "value":  "nosniff",
+                                "importance":  "Medium"
+                            },
+                            {
+                                "name":  "permissionsPolicy",
+                                "present":  false,
+                                "value":  null,
+                                "importance":  "Low"
+                            }
+                        ],
+    "accessibilityScore":  100,
+    "accessibility":  {
+                          "totalImages":  20,
+                          "imagesWithAlt":  20,
+                          "imagesWithoutAlt":  0,
+                          "altCoverage":  100,
+                          "formats":  {
+                                          "png":  17,
+                                          "jpg":  3
+                                      },
+                          "headings":  {
+                                           "h1":  0,
+                                           "h2":  6,
+                                           "h3":  0,
+                                           "h4":  0,
+                                           "h5":  0,
+                                           "h6":  0
+                                       },
+                          "noH1":  true,
+                          "multipleH1":  false,
+                          "skippedHeadings":  [
+
+                                              ],
+                          "formsCount":  1,
+                          "formsSummary":  [
+                                               {
+                                                   "index":  0,
+                                                   "totalInputs":  1,
+                                                   "inputsWithoutLabels":  1,
+                                                   "inputsWithoutLabelsList":  [
+                                                                                   {
+                                                                                       "name":  null,
+                                                                                       "type":  "input",
+                                                                                       "placeholder":  "Quiz me on vocabulary"
+                                                                                   }
+                                                                               ]
+                                               }
+                                           ]
+                      },
+    "internalLinks":  65,
+    "externalLinks":  24,
+    "anchorLinks":  1,
+    "mailLinks":  0,
+    "telLinks":  0,
+    "downloadLinks":  0,
+    "brokenLinks":  [
+                        {
+                            "url":  "https://openai.com/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/research/index/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/business/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/api/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/about/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/research/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/stories/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/index/gpt-5-6/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/index/health-in-chatgpt/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/chatgpt-work/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/index/introducing-gpt-live/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/news/company-announcements/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/index/daybreak-securing-the-world/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/index/introducing-openai-presence/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/index/david-velez-robin-vince-join-openai-boards/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/index/unlocking-self-improvement-gpt-red/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/index/how-agents-are-transforming-work/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/index/openai-submits-confidential-s-1/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/index/cycling-across-antarctica/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/index/creating-new-simulations-black-holes/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/index/chip-ganassi-racing/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/index/introducing-gpt-rosalind/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/business/customer-stories/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/index/choco/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/index/cyberagent/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/index/gradient-labs/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/chatgpt/download/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/signals/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/index/introducing-gpt-5-5/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/index/introducing-gpt-5-4/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/safety/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/security-and-privacy/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/trust-and-transparency/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/codex/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/products/release-notes/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/solutions/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/business/learn/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/business/partners/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/contact-sales/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/open-models/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/charter/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/careers/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/news/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/academy/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/supply/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/live/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/podcast/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/policies/terms-of-use/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/policies/privacy-policy/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://openai.com/policies/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://chatgpt.com/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://chatgpt.com/?mode=voice",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://chatgpt.com/business/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://chatgpt.com/business/enterprise/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://chatgpt.com/business/education/",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://platform.openai.com/login",
+                            "status":  403
+                        },
+                        {
+                            "url":  "https://help.openai.com/",
+                            "status":  403
+                        }
+                    ],
+    "brokenImages":  [
+
+                     ],
+    "largestImages":  [
+                          {
+                              "url":  "https://images.ctfassets.net/kftzwdyauwt9/4hWm54F91fSSwX6YKm7Dqk/8db6b474726138fd000a34b0f67f41f8/ChatGPT_Work_1x1.png?w=3840\u0026q=90\u0026fm=webp",
+                              "size":  580246
+                          },
+                          {
+                              "url":  "https://images.ctfassets.net/kftzwdyauwt9/2sMgyKsbMrlLNgBeM8SYAh/83460e94830cfb5865cddb57e6fe837f/OpenAI_Ganassi_1x1.jpg?w=3840\u0026q=90\u0026fm=webp",
+                              "size":  559994
+                          },
+                          {
+                              "url":  "https://images.ctfassets.net/kftzwdyauwt9/2tgWg3FVo92ztow3wQjynu/6803dbad048ec780c8f0c7c46347ebe9/OpenAI_Falcon_1x1.jpg?w=3840\u0026q=90\u0026fm=webp",
+                              "size":  522644
+                          },
+                          {
+                              "url":  "https://images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/b5fe018bce4814a145bb9c8e57422db6/gpt-5-6-poster.png?w=3840\u0026q=90\u0026fm=webp",
+                              "size":  485342
+                          },
+                          {
+                              "url":  "https://images.ctfassets.net/kftzwdyauwt9/5Owa7Jyi5pMx1lDrvN1B2C/3036661e68edf2e77d2d5d2454653740/2026_04_Gardi_ProjectOwl_KittPeak_Day1_02144.jpg?w=3840\u0026q=90\u0026fm=webp",
+                              "size":  356952
+                          },
+                          {
+                              "url":  "https://images.ctfassets.net/kftzwdyauwt9/4QsBeXNSb2qFXZHe4SQ1hb/6cf266e7e4e2482688290cbc159b762c/oai_CyberAgent_1x1.png?w=3840\u0026q=90\u0026fm=webp",
+                              "size":  249076
+                          },
+                          {
+                              "url":  "https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840\u0026q=90\u0026fm=webp",
+                              "size":  247664
+                          },
+                          {
+                              "url":  "https://images.ctfassets.net/kftzwdyauwt9/2A9IYNIXnFR7s8lAQ9BKby/c98bd4af069478f3317f7d2d6aa98cc2/oai_Choco_1x1.png?w=3840\u0026q=90\u0026fm=webp",
+                              "size":  204670
+                          },
+                          {
+                              "url":  "https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840\u0026q=90\u0026fm=webp",
+                              "size":  161424
+                          },
+                          {
+                              "url":  "https://images.ctfassets.net/kftzwdyauwt9/6DOv5mMIaI2sbsgdDbeiiY/d2d071aac3555468336b870cfeb9736e/OAI_GPT-Rosaling_Art_Card_1x1.png?w=3840\u0026q=90\u0026fm=webp",
+                              "size":  123140
+                          }
+                      ],
+    "recommendations":  [
+                            {
+                                "priority":  "High",
+                                "problem":  "Performance issues",
+                                "explanation":  "Slow response time or large page size",
+                                "fix":  null,
+                                "docs":  null
+                            },
+                            {
+                                "priority":  "High",
+                                "problem":  "Missing security headers",
+                                "explanation":  "Add HSTS, CSP, X-Frame-Options, X-Content-Type-Options, Referrer-Policy",
+                                "fix":  null,
+                                "docs":  null
+                            }
+                        ]
+}
