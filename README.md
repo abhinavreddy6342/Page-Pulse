@@ -61,3 +61,14 @@ Deployment notes
 Notes
 - This update keeps existing frontend behavior while adding server-backed persistence and auth.
 - LowDB is used to avoid external DB infra during development. For production, migrate to a managed DB.
+
+## 🌐 Live Demo
+
+Frontend:
+https://glittery-beignet-978257.netlify.app/
+
+Backend:
+https://page-pulse-aye6.onrender.com
+
+GitHub Repository:
+https://github.com/abhinavreddy6342/Page-Pulse
