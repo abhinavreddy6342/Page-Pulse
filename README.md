@@ -72,3 +72,21 @@ https://page-pulse-aye6.onrender.com
 
 GitHub Repository:
 https://github.com/abhinavreddy6342/Page-Pulse
+
+## Testing
+
+The application was manually tested using the following scenarios:
+
+### Test Cases
+
+1. **Happy Path**
+   - Input: Valid website URL (e.g., https://google.com)
+   - Expected Result: Website analysis is generated successfully with SEO, Performance, Accessibility, and Security scores.
+
+2. **Failure Case – Invalid URL**
+   - Input: Invalid URL (e.g., `abcd`)
+   - Expected Result: Displays an appropriate validation error message.
+
+3. **Failure Case – Unreachable Website**
+   - Input: An unavailable or unreachable website.
+   - Expected Result: Displays an error message without crashing the application.
