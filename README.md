@@ -90,3 +90,91 @@ The application was manually tested using the following scenarios:
 3. **Failure Case – Unreachable Website**
    - Input: An unavailable or unreachable website.
    - Expected Result: Displays an error message without crashing the application.
+
+## Design Decisions
+
+### 1. Separate Frontend and Backend Architecture
+
+The application uses a separate frontend and backend structure.
+
+The frontend is built using React and the backend is built using Node.js and Express. This separation allows independent deployment, easier maintenance, and better scalability.
+
+---
+
+### 2. Modular Backend Service Architecture
+
+The website analysis functionality is divided into separate service modules:
+
+- SEO Analysis Service
+- Performance Analysis Service
+- Accessibility Analysis Service
+- Security Analysis Service
+
+This design keeps the code organized and makes it easier to improve or add new auditing features without affecting the complete application.
+
+---
+
+### 3. Lightweight Database Approach Using LowDB
+
+LowDB was selected as the database solution for this project because it provides simple file-based persistent storage without requiring external database setup.
+
+This approach is suitable for development and testing. For production-level scaling, the storage layer can be migrated to databases like MongoDB or PostgreSQL.
+
+---
+
+## Error Handling Approach
+
+The application handles different failure scenarios safely:
+
+- Invalid URL inputs are validated before processing.
+- Network failures and unreachable websites return meaningful error responses.
+- Non-HTML responses are handled without crashing the server.
+- Backend errors are returned as structured JSON responses.
+
+---
+
+## Deployment
+
+The project is deployed using free cloud services:
+
+Frontend:
+- Netlify
+
+Backend:
+- Render
+
+Environment variables are configured separately for development and production environments.
+
+---
+
+## AI Usage
+
+AI tools were used during development for:
+
+- Debugging errors
+- Improving README documentation structure
+- Getting suggestions for testing scenarios
+- Reviewing code organization
+
+All implementation decisions, project architecture, deployment configuration, and final modifications were completed by me.
+
+---
+
+## Future Improvements
+
+Possible future enhancements:
+
+- Integration with Google Lighthouse API for advanced audits
+- AI-generated website improvement suggestions
+- Scheduled website monitoring
+- Email notifications for reports
+- Migration from LowDB to a production database
+- Advanced analytics dashboard
+
+---
+
+## Built For
+
+Digital Heroes Training Task
+
+https://digitalheroesco.com
